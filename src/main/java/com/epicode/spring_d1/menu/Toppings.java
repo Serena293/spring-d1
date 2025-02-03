@@ -1,4 +1,4 @@
-package com.epicode.spring_d1.pizzeria;
+package com.epicode.spring_d1.menu;
 
 
 import lombok.AllArgsConstructor;
